@@ -1,0 +1,512 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Knuckles Token - DO YOU KNOW DA WAE</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900" rel="stylesheet">
+    <link rel="stylesheet" href="css/open-iconic-bootstrap.min.css">
+    <link rel="stylesheet" href="css/animate.css">    
+    <link rel="stylesheet" href="css/owl.carousel.min.css">
+    <link rel="stylesheet" href="css/owl.theme.default.min.css">
+    <link rel="stylesheet" href="css/magnific-popup.css">
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.1/font/bootstrap-icons.css">
+    <link rel="stylesheet" href="css/aos.css">
+    <link rel="stylesheet" href="css/ionicons.min.css">   
+    <link rel="stylesheet" href="css/flaticon.css">
+    <link rel="stylesheet" href="css/icomoon.css">
+    <link rel="stylesheet" href="css/style.css">
+	<link rel="icon" type="image/x-icon" href="images/logos/favicon.ico">
+	
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-H1F3HLYR58"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-H1F3HLYR58');
+</script>
+  </head>
+  <body data-spy="scroll" data-target=".site-navbar-target" data-offset="300">
+    <nav class="navbar navbar-expand-lg navbar-dark ftco_navbar ftco-navbar-light site-navbar-target" id="ftco-navbar">
+	    <div class="container">
+	      <a class="navbar-brand" href="index.html">
+		  <object data="images/logos/Logo_nocpace.png" width="70" height="60"> </object>
+		  </a>
+	      <button class="navbar-toggler js-fh5co-nav-toggle fh5co-nav-toggle" type="button" data-toggle="collapse" data-target="#ftco-nav" aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
+	        <span class="oi oi-menu"></span> Menu
+	      </button>
+	      <div class="collapse navbar-collapse" id="ftco-nav">
+	        <ul class="navbar-nav nav ml-auto">
+	          <li class="nav-item"><a href="#home-section" class="nav-link"><span>Home</span></a></li>
+	          <li class="nav-item"><a href="#about-section" class="nav-link"><span>About</span></a></li>
+	          <li class="nav-item"><a href="#tokenomics-section" class="nav-link"><span>Tokenomics</span></a></li>
+			  <li class="nav-item"><a href="#team-section" class="nav-link"><span>Team</span></a></li>
+			  <li class="nav-item"><a href="#roadmap-section" class="nav-link"><span>Roadmap</span></a></li>
+			  <li class="nav-item"><a href="#howtobuy-section" class="nav-link"><span>How to buy</span></a></li>
+			  <li class="nav-item"><a href="https://www.pinksale.finance/launchpad/0x5331B677Caf97B504e06DB273179Be33e05F9B38?chain=ETH" class="nav-link btn btn-warning py-3 px-4" target="_blank"><span>PRESALE $KNUCK</span></a></li>
+	        </ul>
+	      </div>
+	    </div>
+	</nav>
+	<!-- Home Section -->
+	<section class="ftco-section ftco-no-pb css-selector" id="home-section">
+    	<div class="container">
+    		<div class="row justify-content-center pb-5">
+                <div class="col-md-10 heading-section text-center ftco-animate">
+					<object data="images/logos/knucklescoins.png" width="345" height="298" style="margin:20px 0px 10px 0px;" class="img-fluid"> </object>
+                    <h2 class="letterspace"><span>KNUCKLES <strong>TOKEN</strong></span></h2>
+					<h4 class="mb-4"><span>DO YOU KNOW <strong>DA WAE</strong></span></h4>
+					<h5 class="mb-4">Presale coming soon! </h5>
+			        <button type="button" class="btn btn-warning py-3 px-4"><strong><a href="https://www.pinksale.finance/launchpad/0x5331B677Caf97B504e06DB273179Be33e05F9B38?chain=ETH" target="_blank">PRESALE $KNUCK<img src="images/logos/pinksale_logo.png" alt="Uniswap" class="" width="45" height="45"></a></strong></button>
+                </div>
+            </div>
+    	</div>
+    </section>
+	<!-- Social Media section  -->
+	<section class="ftco-section ftco-no-pb">
+        <div class="container">
+			<div class="row justify-content-center pb-5">
+		       <div class="col-md-10 heading-section text-center ftco-animate">
+                  <h2 class="mb-4">Social Media & Partners</h2>
+               </div>
+			</div>
+            <div class="row text-center">
+                <div class="col-md-3">
+                    <div class="ftco-footer-widget mb-4">
+                    <a href="https://twitter.com/Knucklesbruddas" target="_blank"><img src="images/Twitter.webp" alt="Twitter" class="" ></a>
+                    </div>
+                </div>
+				<div class="col-md-3">
+                    <div class="ftco-footer-widget mb-4">
+                    <a href="https://t.me/knucklestokenofficial" target="_blank"><img src="images/Telegram.webp" alt="Telegram" class="" ></a>
+                    </div>
+                </div>
+				<div class="col-md-3">
+                    <div class="ftco-footer-widget mb-4">
+                    <a href="#" target="_blank"><img src="images/Dextools.webp" alt="Dextools" class="" ></a>
+                    </div>
+                </div>
+				<div class="col-md-3">
+                    <div class="ftco-footer-widget mb-4">
+                    <a href="https://etherscan.io/token/0xd2d115ad847555778847387267909c6d48bfeb3a" target="_blank"><img src="images/Etherscan.webp" alt="Etherscan" class="" ></a>
+                    </div>
+                </div>
+            </div>
+			<div class="row text-center">
+				<div class="col-md-3">
+                    <div class="ftco-footer-widget mb-4">
+                    <a href="#" target="_blank"><img src="images/Coinmarketcap.webp" alt="Coinmarketcap" class="" ></a>
+                    </div>
+                </div>
+				<div class="col-md-3">
+                    <div class="ftco-footer-widget mb-4">
+					<a href="#" target="_blank"><img src="images/Uniswap.webp" alt="Uniswap" class="" ></a>
+                    </div>
+                </div>
+				<div class="col-md-3">
+                    <div class="ftco-footer-widget mb-4">
+                    <a href="https://www.pinksale.finance/launchpad/0x5331B677Caf97B504e06DB273179Be33e05F9B38?chain=ETH" target="_blank"><img src="images/logos/pinksale_logo.png" alt="Pinksale" class="" width="120" height="120"></a>
+                    </div>
+                </div>
+				<div class="col-md-3">
+                    <div class="ftco-footer-widget mb-4">
+                    <a href="https://www.dexview.com/" target="_blank"><img src="images/logos/Dexview.webp" alt="Dexview" class="" width="120" height="120"></a>
+                    </div>
+                </div>
+            </div>
+		</div>
+    </section>
+	<!-- About Section -->
+    <section class="ftco-section ftco-no-pb" id="about-section">
+    	<div class="container">
+    		<div class="row justify-content-center pb-5">
+                <div class="col-md-12 heading-section text-left ftco-animate">
+					<h3 class="mb-4"><strong>ABOUT</strong></h3>
+					<p><strong>Click! Click! Click!</strong> Ugandan Knuckles is back my bruddas! The famous meme before Pepe, Dogecoin and Shiba Inu is now THE token of 2023. We know da wae, follow our wae!</p>
+                </div>
+				 <div class="col-md-12 heading-section text-center ftco-animate">
+				 <img src="images/logos/wallpaperugandanknuckles.png" alt="Ugandan Knuckles Meme Token" class="justify-content-center img-fluid" >
+				 </div>
+            </div>
+    	</div>
+    </section>
+    <!-- Tokenocmis Section -->
+    <section class="ftco-section" id="tokenomics-section">
+    	<div class="container">
+    		<div class="row justify-content-center">
+                <div class="col-md-12 heading-section text-center ftco-animate">
+                    <h2 class="mb-4">Tokenomics</h2>
+				
+					<p>
+					<strong>CA:</strong> 0xd2d115ad847555778847387267909c6d48bfeb3a
+					</p>
+					
+                </div>
+            </div>
+			<div class="row">
+					<div class="col-md-3 text-center d-flex ftco-animate">
+						<div class="services-1 gradientrare">
+								<h5 class="mb-4"><strong>TOKEN</strong></h5>
+								<h5 class="mb-4">$KNUCK</h5>
+								<h5 class="mb-4">Knuckles Token</h5>
+						</div>
+					</div>
+					<div class="col-md-3 text-center d-flex ftco-animate">
+						<div class="services-1 gradientrare">
+								<h5 class="mb-4"><strong>NETWORK</strong></h5>
+								<h5 class="mb-4">ERC-20</h5>
+								<h5 class="mb-4">Ethereum</h5>
+						</div>
+					</div>
+					<div class="col-md-3 text-center d-flex ftco-animate">
+						<div class="services-1 gradientrare">
+								<h5 class="mb-4"><strong>SUPPLY</strong></h5>
+								<h5 class="mb-4">1 Billion</h5>
+								<h5 class="mb-4">1,000,000,000</h5>
+						</div>
+					</div>
+					<div class="col-md-3 text-center d-flex ftco-animate">
+						<div class="services-1 gradientrare">
+								<h5 class="mb-4"><strong>TXN TAX</strong></h5>
+								<h5 class="mb-4">0%</h5>
+								<h5 class="mb-4">Buy | Sell</h5>
+						</div>
+					</div>
+			</div>
+    	</div>
+	</section>
+	<!-- Rarity Section in Numbers -->
+	<section class="ftco-section">
+		<div class="container">
+			<div class="row justify-content-center pb-5">
+               <div class="col-md-12 heading-section text-center ftco-animate">
+                   <h2 class="mb-4">Token Distribution</h2>
+               </div>
+            </div>
+			<div class="row">
+					<div class="col-md-6 animate-box">
+						<div class="progress-wrap ftco-animate">
+							<h3>Presale <span>57%</span></h3>
+							<div class="progress">
+							 	<div class="progress-bar color-3 css-selector" role="progressbar" aria-valuenow="57"
+							  	aria-valuemin="0" aria-valuemax="100" style="width:57%">
+							  	</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-6 animate-box">
+						<div class="progress-wrap ftco-animate">
+							<h3>Liquidity <span>27,61%</span></h3>
+							<div class="progress">
+							 	<div class="progress-bar color-4 css-selector" role="progressbar" aria-valuenow="28"
+							  	aria-valuemin="0" aria-valuemax="100" style="width:28%">
+							  	</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-6 animate-box">
+						<div class="progress-wrap ftco-animate">
+							<h3>Marketing & Giveaways <span>10,48%</span></h3>
+							<div class="progress">
+							 	<div class="progress-bar color-4 css-selector" role="progressbar" aria-valuenow="10"
+							  	aria-valuemin="0" aria-valuemax="100" style="width:10%">
+							  	</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-6 animate-box">
+						<div class="progress-wrap ftco-animate">
+							<h3>Developers <span>4,9%</span></h3>
+							<div class="progress">
+							 	<div class="progress-bar color-4 css-selector" role="progressbar" aria-valuenow="5"
+							  	aria-valuemin="0" aria-valuemax="100" style="width:5%">
+							  	</div>
+							</div>
+						</div>
+					</div>
+			</div>
+		</div>
+    </section>
+    <!-- Rarity Section in Fun Numbers -->
+    <section class="ftco-section ftco-no-pt ftco-no-pb ftco-counter img" id="section-counter">
+    	<div class="container">
+			<div class="row d-md-flex align-items-center">
+                <div class="col-md d-flex justify-content-center counter-wrap ftco-animate">
+                    <div class="block-18">
+                        <div class="text">
+                        <strong class="number">Contract</strong>
+						<span>Renounced</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md d-flex justify-content-center counter-wrap ftco-animate">
+                    <div class="block-18">
+                         <div class="text">
+                        <strong class="number">Mintable</strong>
+						<span>No</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md d-flex justify-content-center counter-wrap ftco-animate">
+                    <div class="block-18">
+                         <div class="text">
+                        <strong class="number">Library</strong>
+						<span>OpenZeppelin</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md d-flex justify-content-center counter-wrap ftco-animate">
+                <div class="block-18">
+                     <div class="text">
+                        <strong class="number">Memable</strong>
+						<span>Click! Click! Click!</span>
+                        </div>
+                </div>
+                </div>
+            </div>
+      </div>
+    </section>
+	<!-- Team Section  -->
+    <section class="ftco-section ftco-hireme img margin-top css-selector" id="team-section">
+	    <div class="container">
+			<div class="row justify-content-center pb-5">
+                <div class="col-md-12 heading-section text-center ftco-animate">
+                <h2 class="mb-4">Team</h2>
+                </div>
+            </div>
+			<div class="row">
+    			<div class="col-md-4">
+    				<div class="resume-wrap ftco-animate">
+						<h2>Knuckles</h2>
+    					<span class="date text-white">Founder</span>
+    					<p class="text-white">As the founder of Knuckles token, I'll do everything in my ability to get the project off the ground with your help. Since each and every one of you is a founder and a pioneer, I won't be around when we succeed. I simultaneously exist as nobody and everyone.</p>
+    				</div>
+    			</div>
+				<div class="col-md-4">
+    				<div class="resume-wrap ftco-animate">
+						<h2>Sonic</h2>
+    					<span class="date text-white">Marketing</span>
+    					<p class="text-white">My objective is to build strong connections with our community on social media right away and to be as forthcoming and truthful as I can. I'm determined to complete this project to the best of my ability.</p>
+    				</div>
+    			</div>
+				<div class="col-md-4">
+    				<div class="resume-wrap ftco-animate">
+						<h2>Cream</h2>
+    					<span class="date text-white">Marketing</span>
+    					<p class="text-white">I aim to create innovative ideas with excellence since I love to code and have a commitment to lifelong learning. I pay close attention to details to produce results that are of the greatest level. with enthusiasm and a dedication to clear communication.</p>
+    				</div>
+    			</div>
+    		</div>
+		</div>
+	</section>
+	<!-- Roadmap Section  -->
+    <section class="ftco-section ftco-no-pb" id="roadmap-section">
+    	<div class="container">
+		    <div class="row justify-content-center pb-5">
+		       <div class="col-md-10 heading-section text-center ftco-animate">
+                  <h2 class="mb-4">Roadmap</h2>
+                  <p>One at a time, bruddas! <strong>Phase 1</strong> is where we are right now.</p>
+               </div>
+			</div>
+		</div>
+    </section>
+	<section class="ftco-section ftco-no-pt ftco-no-pb ftco-counter img" id="section-counter">
+    	<div class="container">
+			<div class="row d-md-flex align-items-center">
+                <div class="col-md d-flex justify-content-center counter-wrap ftco-animate">
+                    <div class="block-18_">
+                        <div class="text">
+                        <strong class="number">Phase 1</strong>
+						<ul>
+						<li><span class="badge badge-info text-left">Website complete</span></li>
+						<li>Renounced & Verified</li>
+						<li>Presale</li>
+						<li>Project launched</li>
+						<li>Adequate initial liquidity</li>
+						<li>Twitter 1K+ Followers</li>
+						</ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md d-flex justify-content-center counter-wrap ftco-animate">
+                    <div class="block-18_">
+                         <div class="text">
+                        <strong class="number">Phase 2</strong>
+						<ul>
+						<li>Dextools Social update</li>
+						<li>Coinmarketcap Listing</li>
+						<li>Coingecko listing</li>
+						<li>Giveaways</li>
+						<li>Etherscan social update</li>
+						<li>300 Holders</li>
+						</ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md d-flex justify-content-center counter-wrap ftco-animate">
+                    <div class="block-18_">
+                         <div class="text">
+                        <strong class="number">Phase 3</strong>
+						<ul>
+						<li>Get it Trending</li>
+						<li>Community partnerships</li>
+						<li>influencer onboarding</li>
+						<li>Twitter 4500+ Followers</li>
+						<li>Giveaways</li>
+						<li>700 Holders</li>
+						</ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md d-flex justify-content-center counter-wrap ftco-animate">
+                <div class="block-18_">
+                     <div class="text">
+                        <strong class="number">Phase 4</strong>
+						<ul>
+						<li>T1 Listings</li>
+						<li>Merch & NFT Collection</li>
+						<li>Influencer onboarding</li>
+						<li>Twitter 6000+ Followers</li>
+						<li>1000+ Holders</li>
+						<li>Meme takover</li>
+						</ul>
+                        </div>
+                </div>
+                </div>
+            </div>
+      </div>
+    </section>
+	<!-- How to buy Section -->
+    <section class="ftco-section ftco-no-pb" id="howtobuy-section">
+    	<div class="container">
+			<div class="row justify-content-center pb-5">
+		       <div class="col-md-10 heading-section text-center ftco-animate">
+                  <h2 class="mb-4">How to buy</h2>
+               </div>
+			</div>
+		    <div class="row justify-content-center pb-5">
+                <div class="col-md-12 heading-section ftco-animate">
+					<h3 class="mb-4">STEP 1  -  Create a Metamask wallet</h3>
+                    <p>On Google Chrome, visit <a href="https://metamask.io/" target="_blank">metamask.io</a>
+                     to download the extension and set up a wallet. On mobile? Get MetaMask's app for 
+					 <a href="https://apps.apple.com/us/app/metamask-blockchain-wallet/id1438144202" target="_blank">iPhone</a> or 
+					 <a href="https://play.google.com/store/apps/details?id=io.metamask&hl=en&gl=US" target="_blank">Android</a>.
+					</p>
+			        <h3 class="mb-4">STEP 2 -  Send ETH to your Metamask</h3>
+                    <p>Acquire Ethereum through MetaMask itself or transfer it to your MetaMask wallet address from another wallet (e.g. Binance,  Coinbase or Kucoin).
+                    </p>
+					<h3 class="mb-4">STEP 3  -  Visit Uniswap</h3>
+			        <p>
+					 Go to <a href="https://app.uniswap.org/" target="_blank">app.uniswap.org</a> and click connect. Paste the $KNUCK token contract address into Uniswap, select KnucklesToken, and confirm. When Metamask prompts you for a wallet signature, sign.
+					
+					</p>
+					<h3 class="mb-4">STEP 4  -  Swap ETH for KnucklesToken</h3>
+			        <p>Swap ETH for $KNUCK. We have ZERO taxes so you don’t need to worry about buying with a specific slippage, although you may need to use slippage during times of market volatility.</p>
+                </div>
+            </div>
+    	</div>
+    </section>
+	<!-- Social Media section  -->
+	<section class="ftco-section ftco-no-pb">
+        <div class="container">
+			<div class="row justify-content-center pb-5">
+		       <div class="col-md-10 heading-section text-center ftco-animate">
+                  <h2 class="mb-4">Social Media & Partners</h2>
+               </div>
+			</div>
+            <div class="row text-center">
+                <div class="col-md-3">
+                    <div class="ftco-footer-widget mb-4">
+                    <a href="https://twitter.com/Knucklesbruddas" target="_blank"><img src="images/Twitter.webp" alt="Twitter" class="" ></a>
+                    </div>
+                </div>
+				<div class="col-md-3">
+                    <div class="ftco-footer-widget mb-4">
+                    <a href="https://t.me/knucklestokenofficial" target="_blank"><img src="images/Telegram.webp" alt="Telegram" class="" ></a>
+                    </div>
+                </div>
+				<div class="col-md-3">
+                    <div class="ftco-footer-widget mb-4">
+                    <a href="#" target="_blank"><img src="images/Dextools.webp" alt="Dextools" class="" ></a>
+                    </div>
+                </div>
+				<div class="col-md-3">
+                    <div class="ftco-footer-widget mb-4">
+                    <a href="https://etherscan.io/token/0xd2d115ad847555778847387267909c6d48bfeb3a" target="_blank"><img src="images/Etherscan.webp" alt="Etherscan" class="" ></a>
+                    </div>
+                </div>
+            </div>
+			<div class="row text-center">
+				<div class="col-md-3">
+                    <div class="ftco-footer-widget mb-4">
+                    <a href="#" target="_blank"><img src="images/Coinmarketcap.webp" alt="Coinmarketcap" class="" ></a>
+                    </div>
+                </div>
+				<div class="col-md-3">
+                    <div class="ftco-footer-widget mb-4">
+					<a href="#" target="_blank"><img src="images/Uniswap.webp" alt="Uniswap" class="" ></a>
+                    </div>
+                </div>
+				<div class="col-md-3">
+                    <div class="ftco-footer-widget mb-4">
+                    <a href="https://www.pinksale.finance/launchpad/0x5331B677Caf97B504e06DB273179Be33e05F9B38?chain=ETH" target="_blank"><img src="images/logos/pinksale_logo.png" alt="Pinksale" class="" width="120" height="120"></a>
+                    </div>
+                </div>
+				<div class="col-md-3">
+                    <div class="ftco-footer-widget mb-4">
+                    <a href="https://www.dexview.com/" target="_blank"><img src="images/logos/Dexview.webp" alt="Dexview" class="" width="120" height="120"></a>
+                    </div>
+                </div>
+            </div>
+		</div>
+    </section>
+	<!-- Footer Section  -->
+    <footer class="ftco-footer ftco-section text-center">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="ftco-footer-widget mb-4">
+		            <object data="images/logos/Logo_nocpace.png" width="70" height="60"> </object>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-6 text-center">
+				<p>
+				Neither the inventor of the meme nor the Sonic franchise are connected to the Knuckles Token. This token is simply paying homage to a meme we all love and recognize. Questions, comments, or other feedback? Send an email to <strong><a href="mailto:info@knucklestoken.com">info@knucklestoken.com</a></strong>
+				</p>
+               </div>
+			   <div class="col-md-6 text-center">
+				<p>
+				 Knuckles Token is a meme token that has neither an intrinsic worth nor a possibility for financial gain. The token serves simply as entertainment and is completely useless. Any information on this website is purely provided for entertainment purposes; no financial advice is ever provided.
+				</p>
+               </div>
+            </div>
+			<div class="row">
+			  <div class="col-md-12 text-center">
+			  <p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+              Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved
+              <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
+			  </div>
+			</div>
+		</div>
+    </footer>
+  <!-- loader -->
+  <div id="ftco-loader" class="show fullscreen"><svg class="circular" width="48px" height="48px"><circle class="path-bg" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke="#eeeeee"/><circle class="path" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke-miterlimit="10" stroke="#F96D00"/></svg></div>
+  <script src="js/jquery.min.js"></script>
+  <script src="js/jquery-migrate-3.0.1.min.js"></script>
+  <script src="js/popper.min.js"></script>
+  <script src="js/bootstrap.min.js"></script>
+  <script src="js/jquery.easing.1.3.js"></script>
+  <script src="js/jquery.waypoints.min.js"></script>
+  <script src="js/jquery.stellar.min.js"></script>
+  <script src="js/owl.carousel.min.js"></script>
+  <script src="js/jquery.magnific-popup.min.js"></script>
+  <script src="js/aos.js"></script>
+  <script src="js/jquery.animateNumber.min.js"></script>
+  <script src="js/scrollax.min.js"></script>  
+  <script src="js/main.js"></script>   
+  </body>
+</html>
